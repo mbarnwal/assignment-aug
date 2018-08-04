@@ -9,7 +9,9 @@ Section 2:
 
 Section 3 
 a)	EclEmma scan Snapshot 
+
 b)	Final Output Snapshot 
+https://github.com/mbarnwal/assignment-aug/blob/master/Final%20Output%20Snapshot.png
 
 c)	Junit Coverage Snapshot
 
